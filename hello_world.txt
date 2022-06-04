@@ -1,0 +1,3 @@
+HEllo world. 
+This is Angie!
+I'm taking The Odin Project introduction course.
